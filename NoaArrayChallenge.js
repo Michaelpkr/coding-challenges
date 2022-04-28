@@ -4,7 +4,10 @@ const users = [
     "Ben",
     "Savannah",
     "Miguel",
-    "Noa"
+    "Noa",
+    "Emily",
+    "Bing",
+    "Barnes"
 ];
  
 // Given an array of users, write a function that goes through the array and checks to see if a specific user exists in the array
